@@ -1,0 +1,49 @@
+Alerts Search and False Alarm Marking Interface
+This project provides a simple user interface for searching alerts and marking them as false alarms. The interface includes functionalities such as free text search, searching by vehicle number, and searching by date range.
+
+Table of Contents
+Prerequisites
+Getting Started
+Usage
+Contributing
+License
+Prerequisites
+Before you begin, ensure you have the following dependencies installed:
+
+Web browser (Chrome, Firefox, Edge, etc.)
+Getting Started
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/your-username/alerts-search-interface.git
+Navigate to the project directory:
+
+bash
+Copy code
+cd alerts-search-interface
+Open the index.html file in your preferred web browser.
+
+Usage
+Search Alerts
+Enter a search query in the "Search" input field.
+Click the "Search" button.
+Alerts matching the search criteria will be displayed.
+Search by Date Range
+Select a start date and end date using the date picker.
+Click the "Search by Date Range" button.
+Alerts within the specified date range will be displayed.
+Mark as False Alarm
+Click the "Mark As False Alarm" button.
+The selected alert will be marked as a false alarm.
+Contributing
+Contributions are welcome! Please follow these steps:
+
+Fork the repository.
+Create a new branch for your feature or bug fix.
+Make changes and test thoroughly.
+Submit a pull request.
+License
+This project is licensed under the MIT License.
+
+Feel free to customize this README to better fit your project structure, additional features, and specific requirements.
